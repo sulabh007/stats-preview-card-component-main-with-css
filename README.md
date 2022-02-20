@@ -1,4 +1,3 @@
-# stats-preview-card-component-main-with-css
 # Frontend Mentor - Stats preview card component solution
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -28,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click Here solution URL here](https://your-solution-url.com)
-- Live Site URL: [Click Here live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click Here live site URL here](https://sulabh007.github.io/stats-preview-card-component-main-with-css/)
 
 ## My process
 
@@ -42,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [sulabh007](https://www.your-site.com)
+- Website - [sulabh007](https://github.com/sulabh007)
 - Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
 
 
